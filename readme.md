@@ -24,4 +24,7 @@ I have used below docker commands to build the image.
 
 ## Below is the QR code which directs to my github homepage:
 
-![Example QR Code](image.png)
+![Github QR Code](image.png)
+
+### log for creating th QR code:
+![Log for successfully creating the QR code](log.png)
