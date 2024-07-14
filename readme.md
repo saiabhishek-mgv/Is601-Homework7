@@ -19,7 +19,7 @@ I have used below docker commands to build the image.
   -e QR_CODE_DIR='qr_codes' \
   -e QR_CODE_FILENAME='exampleQR.png' \
   -e FILL_COLOR='blue' \
-  -e BACK_COLOR='yellow' \
+  -e BACK_COLOR='white' \
   my-qr-app
 
 ## Below is the QR code which directs to my github homepage:
